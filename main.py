@@ -1,7 +1,7 @@
-from lab5.color import *
-from lab5.rectangle import *
-from lab5.circle import *
-from lab5.square import *
+from color import *
+from rectangle import *
+from circle import *
+from square import *
 
 
 def main():
